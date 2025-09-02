@@ -19,8 +19,6 @@ Tuşlar mor renkte tasarlanmıştır 🎨
 
 ---
 
-## 📷 Ekran Görüntüsü
-_(İstersen buraya proje çalıştırıldığında aldığın bir ekran görüntüsünü ekleyebilirsin)_
 
 ```bash
 python gui_calculator.py
