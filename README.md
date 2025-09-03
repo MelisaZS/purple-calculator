@@ -36,7 +36,7 @@ Kurulum ve Çalıştırma
 
 2-Gerekli dosyayı indirin / GitHub’dan klonlayın:
 
-3-git clone https://github.com/KULLANICI_ADIN/mor-hesap-makinesi.git
+3-git clone https://github.com/MelisaZS/mor-hesap-makinesi.git
 cd mor-hesap-makinesi
 
 4-Programı çalıştırın:
