@@ -36,8 +36,7 @@ Kurulum ve Çalıştırma
 
 2-Gerekli dosyayı indirin / GitHub’dan klonlayın:
 
-3-git clone https://github.com/MelisaZS/mor-hesap-makinesi.git
-cd mor-hesap-makinesi
+3-git clone https://github.com/MelisaZS/purple-calculator
 
 4-Programı çalıştırın:
 
